@@ -1,2 +1,2 @@
-# M.Anas-Kamran
+# MAnasKamran
 Welcome to my GitHub profile
