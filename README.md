@@ -13,10 +13,6 @@ I am:
 ## 🚀 About Me
 
 - 🔭 Currently focused on improving my programming fundamentals through Java and OOP
-- 🌱 Learning more about:
-  - Artificial Intelligence & Machine Learning
-  - Cloud Computing
-  - Web Development
 - 🐍 Familiar with Python basics and continuously improving my programming skills
 - 💡 Interested in building practical and meaningful software projects
 - 📚 Exploring new technologies and continuously learning
