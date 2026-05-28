@@ -23,9 +23,14 @@ I am:
 
 <p align="center">
 
+  <!-- IntelliJ IDEA -->
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.svg" alt="intellij" width="45" height="45"/>
+
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 
