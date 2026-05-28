@@ -1,4 +1,12 @@
-# Hi there 👋, I'm Mohammad Anas Kamran.
+<p align="center">
+  <img alt="Coding" width="800" src="https://i.gifer.com/Z5aE.gif">
+</p>
+
+<h1 align="center", >
+Hi there 👋, I'm Mohammad Anas Kamran.
+
+</h1>
+
 Welcome to my GitHub profile.
 
 I am: 
