@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center", >
-Hi there 👋, I'm Mohammad Anas Kamran.
+Hi there 👋, I'm Muhammad Anas Kamran.
 
 </h1>
 
