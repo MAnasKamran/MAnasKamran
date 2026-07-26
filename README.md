@@ -12,7 +12,7 @@ I am:
 
 🎓 A Third Semester Computer Science Student at **COMSATS University Islamabad (CUI)**  
 💻 Currently learning **C++** and starting out with **Data Structures & Algorithms (DSA)**  
-🚀 Aspiring to work in **AI Engineering, Machine Learning Engineering, AI Infrastructure, and Cloud Engineering**  
+🚀 Aspiring to work in **Full Stack Development, AI Engineering, Machine Learning Engineering, AI Infrastructure, and Cloud Engineering**  
 🌱 Continuously improving my skills in software development and problem-solving  
 
 ---
