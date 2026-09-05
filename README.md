@@ -1,89 +1,82 @@
-<div align="center">
+<p align="center">
+  <img alt="Coding" width="800" src="https://i.gifer.com/Z5aE.gif">
+</p>
 
-# Muhammad Anas Kamran
+<h1 align="center">
+Hi there 👋, I'm Muhammad Anas Kamran.
+</h1>
 
-**Computer Science Student · COMSATS University Islamabad**
+Welcome to my GitHub profile.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MAnasKamran-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/MAnasKamran)
-![Profile Views](https://komarev.com/ghpvc/?username=MAnasKamran&label=Profile%20Views&color=24292e&style=flat-square)
+I am: 
 
-</div>
+🎓 A Third Semester Computer Science Student at **COMSATS University Islamabad (CUI)**  
+💻 Currently learning **C++** and starting out with **Data Structures & Algorithms (DSA)**  
+🚀 Aspiring to work in **Full Stack Development, AI Engineering, Machine Learning Engineering, AI Infrastructure, and Cloud Engineering**  
+🌱 Continuously improving my skills in software development and problem-solving  
 
-<br>
+---
 
-## About
+## 🚀 About Me
 
-I'm a third-semester Computer Science student building a solid foundation in Data Structures & Algorithms with C++, alongside working knowledge of Python and Java (OOP). I'm expanding into Full Stack Development and am aiming toward roles in Full Stack Development, AI Engineering, Machine Learning Engineering, AI Infrastructure, and Cloud Engineering.
+- 🔭 Currently focused on learning the fundamentals of Data Structures and Algorithms using C++
+- 🐍 Familiar with Python and Java OOP, and venturing into Full Stack Development
+- 💡 Interested in building practical software projects and scalable infrastructure
+- 📚 Exploring new technologies and continuously learning
 
-- Currently learning **C++** and **Data Structures & Algorithms**
-- Working knowledge of **Python** and **Java (Object-Oriented Programming)**
-- Branching into **Full Stack Development**
-- Long-term interest in **AI/ML Engineering**, **AI Infrastructure**, and **Cloud Engineering**
+---
 
-<br>
+## 🛠️ Technologies & Tools
 
-## Tech Stack
+<p align="center">
 
-<table>
-<tr>
-<td valign="top" width="33%">
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
 
-**Languages**
-<br>
-C++ · Java · Python · JavaScript
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
 
-</td>
-<td valign="top" width="33%">
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 
-**Web**
-<br>
-HTML5 · CSS3 · React
+  <!-- HTML -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>
 
-</td>
-<td valign="top" width="34%">
+  <!-- CSS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
 
-**Tools**
-<br>
-Git · GitHub · IntelliJ IDEA · VS Code
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 
-</td>
-</tr>
-</table>
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 
-<br>
+  <!-- Git -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 
-## GitHub Overview
+  <!-- GitHub -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="45" height="45"/>
 
-<div align="center">
+  <!-- IntelliJ IDEA -->
+  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.svg" alt="intellij" width="45" height="45"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MAnasKamran&show_icons=true&theme=default&hide_border=true&hide_title=true" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAnasKamran&layout=compact&theme=default&hide_border=true&hide_title=true" alt="Top Languages" />
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 
-</div>
+</p>
 
-<br>
+---
 
-## Current Focus
+## 📌 Current Goals
 
-| Area | Goal |
-|---|---|
-| Data Structures & Algorithms | Build strong fundamentals in C++ |
-| Full Stack Development | Expand beyond the basics into real projects |
-| AI / Machine Learning | Learn core engineering concepts |
-| Cloud Engineering | Build foundational knowledge in cloud & AI infrastructure |
+- 🧠 Building a strong foundation in Data Structures & Algorithms in C++
+- 🌐 Expanding into Full Stack Development 
+- 🤖 Diving deeper into AI and Machine Learning engineering concepts
+- ☁️ Expanding knowledge in Cloud Engineering and AI infrastructure 
+- 🚀 Building hands-on projects to bridge the gap between theory and practical application
 
-<br>
+## 📫 Connect With Me
 
-## Connect
+- GitHub: `MAnasKamran`
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAnasKamran)
-
-</div>
-
-<br>
-
-<div align="center">
-<sub>Thanks for visiting my profile.</sub>
-</div>
+---
